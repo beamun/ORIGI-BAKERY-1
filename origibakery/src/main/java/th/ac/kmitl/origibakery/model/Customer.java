@@ -1,4 +1,5 @@
 package th.ac.kmitl.origibakery.model;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
